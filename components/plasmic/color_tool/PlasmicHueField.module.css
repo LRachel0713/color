@@ -1,0 +1,56 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  padding: 0px;
+}
+.slotTargetChildren {
+  user-select: none;
+}
+.slotTargetChildrenglobal_dark__true {
+  color: #ffffff;
+}
+.text {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  margin-right: 4px;
+  user-select: none;
+}
+.textglobal_dark__true {
+  color: #ffffff;
+}
+.huePicker:global(.__wab_instance) {
+  max-width: 240%;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+  min-width: 128px;
+  overflow: visible;
+}
+.input:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 96px;
+  margin-left: 8px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.svg__u49Cf {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__fjss0 {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
